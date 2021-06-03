@@ -2884,7 +2884,7 @@ img.lazy:not([src]) {
 .section {
   position: relative;
   width: 100%;
-  margin: 60px 0;
+  margin: 0px 0;
   padding: 60px 0;
   background-color: #eef0e8;
   overflow: hidden;
@@ -14084,7 +14084,7 @@ blockquote.float-right {
 }
 
 .bg-overlay-bg {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.15);
 }
 
 .dark .bg-overlay-bg,
