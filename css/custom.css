@@ -9,7 +9,7 @@
   color: #eef0e8;
 }
 .color-secondary {
-  color: #9E8986;
+  color: #a89f9e;
 }
 .color-ter {
   color: #e6bdb8;
@@ -23,3 +23,7 @@
 .p-color {
 	color: #9E8986;
 }
+
+
+/* Hide ScrollBar */
+::-webkit-scrollbar {display: none;}

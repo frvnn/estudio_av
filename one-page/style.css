@@ -9345,7 +9345,7 @@ body:not(.device-touch) .button {
 }
 
 .button:hover {
-  background-color: #444;
+  background-color: #9E8986;
   color: #fff;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
@@ -9473,7 +9473,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-border:not(.button-fill):hover {
-  background-color: #444;
+  background-color: #9E8986;
   color: #fff;
   border-color: transparent !important;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);

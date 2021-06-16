@@ -189,7 +189,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #444;
+  color: #9E8986;
   font-weight: 600;
   line-height: 1.5;
   margin: 0 0 30px 0;
@@ -3823,7 +3823,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
   display: block;
   line-height: 22px;
   padding: 14px 5px;
-  color: #444;
+  color: #9E8986;
   font-weight: 700;
   font-size: 0.8125rem;
   letter-spacing: 1px;
@@ -4347,7 +4347,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
     letter-spacing: 1px;
     text-transform: uppercase !important;
     margin-bottom: 15px;
-    color: #444;
+    color: #9E8986;
     padding: 0 !important;
     line-height: 1.3 !important;
   }
@@ -4415,7 +4415,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
   }
 
   .style-3 .menu-container > .menu-item:hover > .menu-link {
-    color: #444;
+    color: #9E8986;
     background-color: #f5f5f5;
   }
 
@@ -4885,7 +4885,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
     line-height: 48px;
     font-size: 1.5rem;
     text-align: center;
-    color: #444;
+    color: #9E8986;
   }
 
   .overlay-menu #primary-menu-trigger {
@@ -5030,7 +5030,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
     height: 40px;
     font-size: 18px;
     line-height: 40px;
-    color: #444;
+    color: #9E8986;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.1);
     border-radius: 0 0 0 2px;
@@ -5375,7 +5375,7 @@ body:not(.top-search-open)
 .top-cart-item-quantity {
   font-size: 0.75rem;
   line-height: 1.25rem;
-  color: #444;
+  color: #9E8986;
 }
 
 .top-cart-action {
@@ -6478,7 +6478,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 
 .nav-solid .flex-prev:not(:hover) i,
 .nav-solid .flex-next:not(:hover) i {
-  color: #444;
+  color: #9E8986;
   text-shadow: none;
 }
 
@@ -6908,7 +6908,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 #page-title.page-title-mini h1 {
   font-weight: 600;
   font-size: 18px;
-  color: #444;
+  color: #9E8986;
 }
 
 #page-title.page-title-mini span {
@@ -7203,7 +7203,7 @@ body:not(.device-touch) .grid-container {
 }
 
 .grid-filter.style-4 li.activeFilter a {
-  color: #444 !important;
+  color: #9E8986 !important;
   background-color: transparent;
   margin: 0;
 }
@@ -7810,7 +7810,7 @@ body:not(.device-touch) .portfolio {
   width: 24px;
   height: 24px;
   text-align: center;
-  color: #444;
+  color: #9E8986;
   transition: color 0.3s linear;
   -webkit-transition: color 0.3s linear;
   -o-transition: color 0.3s linear;
@@ -8074,7 +8074,7 @@ body:not(.device-touch) .portfolio {
   background-color: #f5f5f5;
   padding: 30px 0;
   text-align: center;
-  color: #444;
+  color: #9E8986;
   font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -8735,7 +8735,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-image > a {
 .product-price {
   font-size: 1.125rem;
   font-weight: 700;
-  color: #444;
+  color: #9E8986;
   margin-bottom: 4px;
 }
 
@@ -9336,7 +9336,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-dark {
-  background-color: #444;
+  background-color: #9E8986;
 }
 
 .button.button-light {
@@ -9346,7 +9346,7 @@ body:not(.device-touch) .button {
 }
 
 .button:hover {
-  background-color: #444;
+  background-color: #9E8986;
   color: #fff;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
@@ -9458,7 +9458,7 @@ body:not(.device-touch) .button {
 -----------------------------------------------------------------*/
 
 .button.button-border {
-  border: 2px solid #444;
+  border: 2px solid #9E8986;
   background-color: transparent;
   color: #333;
   font-weight: 700;
@@ -9474,7 +9474,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-border:not(.button-fill):hover {
-  background-color: #444;
+  background-color: #9E8986;
   color: #fff;
   border-color: transparent !important;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
@@ -9771,7 +9771,7 @@ body:not(.device-touch) .button.button-full strong {
 .button.button-border.button-fill::before {
   content: "";
   position: absolute;
-  background-color: #444;
+  background-color: #9E8986;
   top: 0;
   left: 0;
   width: 0;
@@ -10074,7 +10074,7 @@ body:not(.device-touch) .button.button-full strong {
 
 .promo h3 + span {
   display: block;
-  color: #444;
+  color: #9E8986;
   font-weight: 300;
   font-size: 1.125rem;
   margin-top: 6px;
@@ -10380,14 +10380,14 @@ body:not(.device-touch) .button.button-full strong {
 .fbox-light .fbox-icon img {
   border: 1px solid #e5e5e5;
   background-color: #f5f5f5;
-  color: #444;
+  color: #9E8986;
 }
 
 /* Feature Box - Dark Background
 -----------------------------------------------------------------*/
 
 .fbox-dark.fbox-outline .fbox-icon a {
-  border-color: #444;
+  border-color: #9E8986;
 }
 
 .fbox-dark .fbox-icon i,
@@ -10431,7 +10431,7 @@ body:not(.device-touch) .button.button-full strong {
 
 .fbox-border.fbox-dark .fbox-icon i,
 .fbox-border.fbox-dark .fbox-icon img {
-  color: #444;
+  color: #9E8986;
 }
 
 /* Feature Box - Plain
@@ -10470,7 +10470,7 @@ body:not(.device-touch) .button.button-full strong {
 
 .fbox-plain.fbox-dark .fbox-icon i,
 .fbox-plain.fbox-dark .fbox-icon img {
-  color: #444;
+  color: #9E8986;
 }
 
 /* Feature Box - Icon Plain Sizes
@@ -10518,7 +10518,7 @@ body:not(.device-touch) .button.button-full strong {
 .fbox-content h3 span.subtitle {
   display: block;
   margin-top: 5px;
-  color: #444;
+  color: #9E8986;
   font-weight: 300;
   text-transform: none;
 }
@@ -10892,7 +10892,7 @@ body:not(.device-touch) .button.button-full strong {
 .style-msg2 {
   position: relative;
   display: block;
-  color: #444;
+  color: #9E8986;
   border-left: 4px solid rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
 }
@@ -11013,7 +11013,7 @@ body:not(.device-touch) .social-icon {
   width: 52px !important;
   height: 52px !important;
   line-height: 52px !important;
-  background-color: #444;
+  background-color: #9E8986;
   border-radius: 3px;
 }
 
@@ -11021,7 +11021,7 @@ body:not(.device-touch) .social-icon {
   border: 1px solid #555;
   line-height: 50px !important;
   background-color: transparent !important;
-  color: #444;
+  color: #9E8986;
   text-shadow: none;
 }
 
@@ -11030,7 +11030,7 @@ body:not(.device-touch) .social-icon {
   height: 36px !important;
   font-size: 28px;
   line-height: 36px !important;
-  color: #444;
+  color: #9E8986;
   text-shadow: 1px 1px 1px #fff;
 }
 
@@ -11044,7 +11044,7 @@ body:not(.device-touch) .social-icon {
 
 .i-light {
   background-color: #f5f5f5;
-  color: #444;
+  color: #9E8986;
   text-shadow: 1px 1px 1px #fff;
   box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.2);
 }
@@ -11064,9 +11064,9 @@ body:not(.device-touch) .social-icon {
 }
 
 .i-bordered:hover {
-  background-color: #444 !important;
+  background-color: #9E8986 !important;
   color: #fff;
-  border-color: #444;
+  border-color: #9E8986;
 }
 
 /* Icon Size - Small
@@ -11263,7 +11263,7 @@ body:not(.device-touch) .social-icon {
 -----------------------------------------------------------------*/
 
 .si-dark {
-  background-color: #444;
+  background-color: #9E8986;
   color: #fff !important;
   border-color: transparent;
 }
@@ -11389,7 +11389,7 @@ body:not(.device-touch) .social-icon i {
 
 .si-facebook:hover,
 .si-colored.si-facebook {
-  background-color: #3b5998 !important;
+  background-color: #9E8986 !important;
 }
 .si-delicious:hover,
 .si-colored.si-delicious {
@@ -11429,7 +11429,7 @@ body:not(.device-touch) .social-icon i {
 }
 .si-call:hover,
 .si-colored.si-call {
-  background-color: #444 !important;
+  background-color: #9E8986 !important;
 }
 .si-ninetyninedesigns:hover,
 .si-colored.si-ninetyninedesigns {
@@ -11645,7 +11645,7 @@ body:not(.device-touch) .social-icon i {
 }
 .si-instagram:hover,
 .si-colored.si-instagram {
-  background-color: #8a3ab9 !important;
+  background-color: #9E8986 !important;
 }
 .si-quora:hover,
 .si-colored.si-quora {
@@ -11742,7 +11742,7 @@ body:not(.device-touch) .social-icon i {
   color: #25a0ca;
 }
 .si-text-color.si-call i {
-  color: #444;
+  color: #9E8986;
 }
 .si-text-color.si-ninetyninedesigns i {
   color: #f26739;
@@ -11975,7 +11975,7 @@ body:not(.device-touch) .social-icon i {
   flex-wrap: wrap;
   margin: 0 -5px;
   cursor: pointer;
-  color: #444;
+  color: #9E8986;
   font-size: 1rem;
   font-weight: 700;
 }
@@ -12189,7 +12189,7 @@ body:not(.device-touch) .social-icon i {
 .tab-nav li a {
   display: block;
   padding: 0 15px;
-  color: #444;
+  color: #9E8986;
   height: 40px;
   line-height: 40px;
   background-color: #f2f2f2;
@@ -12312,7 +12312,7 @@ body:not(.device-touch) .social-icon i {
 
 .tab-nav-lg li a {
   display: inline-block;
-  color: #444;
+  color: #9E8986;
   font-family: "Poppins", sans-serif;
   font-size: 13px;
   font-weight: bold;
@@ -12616,7 +12616,7 @@ body:not(.device-touch) .social-icon i {
 }
 
 .faqlist li a {
-  color: #444;
+  color: #9E8986;
 }
 
 .faqlist li a:hover {
@@ -13301,7 +13301,7 @@ body:not(.device-touch) .clients-grid .grid-item a {
   margin: 20px auto 25px auto;
   content: "";
   width: 15%;
-  border-top: 2px solid #444;
+  border-top: 2px solid #9E8986;
   opacity: 0.9;
 }
 
@@ -13528,7 +13528,7 @@ blockquote.float-right {
 
 .highlight {
   padding: 2px 5px;
-  background-color: #444;
+  background-color: #9E8986;
   color: #fff;
   border-radius: 2px;
 }
@@ -14531,7 +14531,7 @@ h3.titular-title {
   display: block;
   margin-top: 30px;
   width: 40px;
-  border-top: 2px solid #444;
+  border-top: 2px solid #9E8986;
 }
 
 .center .heading-block::after,
@@ -15406,7 +15406,7 @@ button.toast-close-button {
   display: inline-block;
   margin: 0 3px;
   color: #333;
-  border-bottom: 1px dotted #444;
+  border-bottom: 1px dotted #9E8986;
 }
 
 .copyright-links a:hover {
@@ -15600,7 +15600,7 @@ body:not(.device-touch) .tagcloud a {
   display: inline-block;
   padding: 0 3px 0 12px;
   border: none !important;
-  color: #444;
+  color: #9E8986;
 }
 
 .widget_nav_menu.widget-li-noicon li a,
@@ -15814,7 +15814,7 @@ body:not(.device-touch) .tagcloud a {
 
 .widget-filter-links li a {
   display: block;
-  color: #444;
+  color: #9E8986;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
