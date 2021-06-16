@@ -717,14 +717,14 @@
 		<section id="content">
 			<div class="content-wrap py-0">
 
-				<div id="section-acercade" class="section page-section m-0 p-2">
+				<div id="section-acercade" class="section page-section m-0 p-4">
 
 					<div class="container clearfix">
 
-						<div class="row">
+						<div class="row pt-6">
 							<div class="col-lg-6">
 								<div class="heading-block border-bottom-0 bottommargin-sm">
-									<h1 class="mb-0 font-weight-light ls1">Quienes Somos</h1>
+									<h1 class="mb-0 font-weight-normal ls1">Quienes Somos</h1>
 								</div>
 								<p class="mb-0 font-weight-light">
 									Somos un estudio profesional de fotografía dedicada a atesorar huellas de vida como patrimonio familiar. Desarrollamos un servicio personalizado, una experiencia exclusiva e inolvidable.
@@ -814,7 +814,7 @@
 
 					<div class="section m-0">
 						<div class="container clearfix">
-							<div class="mx-auto center" style="max-width: 900px;">
+							<div class="mx-auto center">
 								<h1 class="mb-0 font-weight-light ls1">GALERIA</h1>
 							</div>
 						</div>
@@ -1051,17 +1051,12 @@
 						<p class="lead mx-auto bottommargin" style="max-width: 800px;">
 							Apasionadas, entusiastas, y soñadoras.</p>
 
-						<p class="bottommargin" style="font-size: 16px;"><a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Conocenos más<i class="icon-angle-down"></i></a></p>
-
-						<div class="clear"></div>
-
 						<div class="row topmargin-lg mx-auto" style="max-width: 800px;">
 
 							<div class="col-md-6 mb-0">
-
-								<div class="team">
+								<div class="team shadow">
 									<div class="team-image">
-										<img class="border rounded shadow" src="img/profile_bea.jpg" alt="Beatriz Arauz">
+										<img class="border rounded" src="img/profile_bea.jpg" alt="Beatriz Arauz">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content align-items-end" data-hover-animate="fadeIn" data-hover-speed="400">
 												<a href="#" class="social-icon si-borderless si-small si-facebook" title="Facebook">
@@ -1085,9 +1080,9 @@
 
 							<div class="col-md-6 mb-1">
 
-								<div class="team">
+								<div class="team shadow">
 									<div class="team-image">
-										<img class="border rounded shadow" src="img/profile_lara.jpg" alt="Lara Vanney">
+										<img class="border rounded" src="img/profile_lara.jpg" alt="Lara Vanney">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content align-items-end" data-hover-animate="fadeIn" data-hover-speed="400">
 												<a href="#" class="social-icon si-borderless si-small si-facebook" title="Facebook">
@@ -1110,6 +1105,9 @@
 							</div>
 
 						</div>
+					<div class="row justify-content-center mt-5">
+						<button class="button button-border button-circle font-weight-medium">Conocenos más<i class="icon-angle-down"></i></button>
+					</div>
 
 					</div>
 
@@ -1315,12 +1313,12 @@
 				sliderLayout:"fullwidth",
 				delay:9000,
 				navigation: {
-					arrows:{enable:true}
+					arrows:{enable:false}
 				},
 				responsiveLevels:[1240,1024,778,480],
 				visibilityLevels:[1240,1024,778,480],
-				gridwidth:[1240,1024,778,480],
-				gridheight:[600,768,960,720],
+				gridwidth:[1280,1024,778,480],
+				gridheight:[900,768,960,720],
 			});
 
 			apiRevoSlider.on("revolution.slide.onloaded",function (e) {
@@ -1334,3 +1332,6 @@
 	</script>
 </body>
 </html>
+
+<!-- gridwidth:[1240,1024,778,480],
+gridheight:[600,768,960,720], -->
